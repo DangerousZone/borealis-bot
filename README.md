@@ -6,7 +6,7 @@ Borealis-bot es un Bot diseñado para cumplir con múltipes propositos, cuenta c
 
 ## [Borealis-bot Wiki](https://github.com/DangerousZone/borealis-bot/wiki)
 ℹ [About Borealis-Bot](https://github.com/DangerousZone/borealis-bot/wiki/About-Borealis)
-📜 [Referencia completa de comandos](https://github.com/DangerousZone/borealis-bot/wiki/Commands)
+📜 [Referencia completa de comandos](https://github.com/DangerousZone/borealis-bot/wiki/Comandos)
 
 
 ## ¿Cómo informo de un error o sugiero una nueva función?
