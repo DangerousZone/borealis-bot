@@ -1,7 +1,7 @@
 # Borealis-bot
 
 ## Discord Multipurpose Bot
-Borealis-bot es un Bot diseñado para cumplir con múltipes propositos, cuenta con sistema de moderación, sistema de xp y recompensas, comandos de diversión, logs y minijuegos.
+Borealis-bot es un Bot diseñado para cumplir con múltipes propositos, cuenta con sistema de moderación, sistema de experiencia y recompensas por nivel, comandos de diversión, logs y minijuegos.
 
 
 ## [Borealis-bot Wiki](https://github.com/DangerousZone/borealis-bot/wiki)
